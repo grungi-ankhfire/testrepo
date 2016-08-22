@@ -1,3 +1,3 @@
 # testrepo
 
-Oui on peut l'éditer.
+README en construction.
